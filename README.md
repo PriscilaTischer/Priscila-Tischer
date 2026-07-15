@@ -40,6 +40,10 @@ Sou estudante de Ciência e Tecnologia na UNIFEI, focada em **Dados, Inteligênc
 ### 📂 Projetos em Destaque
 
 
+* ** [Inteligência de Mercado: Robô de Aprendizado de Máquina (B3 - Grupo Fleury)](https://github.com/PriscilaTischer/PROJETO_ROBO_B3)
+    * Projeto final desenvolvido na UNIFEI aplicando inteligência preditiva (Classificador KNN) com dados reais da B3 (Grupo Fleury), integrado a um Dashboard moderno (Streamlit) focado na experiência do usuário (UX) e acessibilidade de dados.
+
+
 * **[Projeto Integrador 2 – Monitoramento da Qualidade da Água](https://github.com/PriscilaTischer/projeto-integrador-2_monitoramento-da-agua_analise-de-dados)**
     * Projeto acadêmico desenvolvido na UNIFEI com foco em análise de dados, dashboard interativo e integração com banco de dados MySQL.
 
